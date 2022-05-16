@@ -22,7 +22,7 @@ h1 {
 .fondo-pilares {
   width: 100%;
   height: 600px;
-  background-image: url("https://pilares.cdmx.gob.mx/assets/images/ajedrez.jpg");
+  background-image: url("https://www.capital21.cdmx.gob.mx/noticias/wp-content/uploads/2021/01/pilares_02.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -72,7 +72,7 @@ h2 {
 .fondo-empoderamiento {
   width: 100%;
   height: 600px;
-  background-image: url("http://187.216.164.109/~edc/moodle/pluginfile.php/1/theme_academi/slide1image/1630643581/pilares.jpg");
+  background-image: url("https://pilares.cdmx.gob.mx/assets/images/ajedrez.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
